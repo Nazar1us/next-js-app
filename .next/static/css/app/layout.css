@@ -58,3 +58,14 @@ svg {
   font-weight: 500;
   color: #ddd8d8;
 }
+
+h1, h2, p {
+ text-align: center;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
