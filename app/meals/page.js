@@ -10,8 +10,6 @@ export default function Meals() {
         <p>
           <Link href='community'>Go to Community</Link>
         </p>
-       
-        
     </main>
   )
 }
