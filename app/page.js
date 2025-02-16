@@ -28,6 +28,7 @@ export default function Home() {
             recipes with the world. It&apos;s a place to discover new dishes, and to
             connect with other food lovers.
           </p>
+          
           <p>
             NextLevel Food is a place to discover new dishes, and to connect
             with other food lovers.
